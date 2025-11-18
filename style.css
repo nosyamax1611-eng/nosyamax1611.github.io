@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
 
 :root {
-    --bg-gradient: linear-gradient(145deg, #ffe53b, #ffoo5b);
-    --card-bg-color: rgba(10, 25, 47, 0.85);
-    --text-color: #c9d1d9;
-    --header-color: #58a6ff;
-    --accent-color: #f778ba;
-    --border-color: rgba(88, 166, 255, 0.2);
+    bg-gradient: linear-gradient(145deg, #ffe53b, #ffoo5b);
+    card-bg-color: rgba(10, 25, 47, 0.85);
+    text-color: #c9d1d9;
+    header-color: #58a6ff;
+    accent-color: #f778ba;
+    border-color: rgba(88, 166, 255, 0.2);
 }
 
 
 html {
     scroll-behavior: smooth;
-    background-color: red;
+  
 }
 
 body {
